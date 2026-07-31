@@ -197,6 +197,8 @@ Current priorities include:
 * Designing for security and scalability
 * Gathering feedback from healthcare professionals
 
+The current provisional MVP architecture and confirmed product decisions are documented in [docs/architecture.md](docs/architecture.md). The document will be refined after validating the remaining clinic workflow and security questions.
+
 ---
 
 # Contributors
